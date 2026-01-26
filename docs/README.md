@@ -24,6 +24,7 @@ Analyzing customer churn in telecom industry using Python and Tableau. The datas
 
 - `visualizations/` - Charts generated from analysis
 - `tableau/` - CSV files for Tableau dashboards
+- [Tableau Dashboard](https://public.tableau.com/app/profile/ishak.islam/viz/CustomerChurnAnalysis-TelecomIndustry/CustomerChurnAnalysis-Dashboard) - Interactive dashboard
 
 ## Key Findings
 

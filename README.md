@@ -68,6 +68,10 @@ After running the notebook:
 - `visualizations/` - 8 analysis charts (PNG)
 - `tableau/` - Data exports for Tableau dashboards
 
+## Tableau Dashboard
+
+Interactive dashboard: [View on Tableau Public](https://public.tableau.com/app/profile/ishak.islam/viz/CustomerChurnAnalysis-TelecomIndustry/CustomerChurnAnalysis-Dashboard)
+
 ## Tech Stack
 
 Python, Pandas, NumPy, Matplotlib, Seaborn, Tableau
