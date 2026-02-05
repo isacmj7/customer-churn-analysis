@@ -43,3 +43,7 @@ Analyzing customer churn in telecom industry using Python and Tableau. The datas
 ## Tech Stack
 
 Python, Pandas, NumPy, Matplotlib, Seaborn, Tableau
+
+## GitHub Repository
+
+**Source Code:** [https://github.com/isacmj7/customer-churn-analysis](https://github.com/isacmj7/customer-churn-analysis)

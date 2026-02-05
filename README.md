@@ -76,6 +76,10 @@ Interactive dashboard: [View on Tableau Public](https://public.tableau.com/app/p
 
 Python, Pandas, NumPy, Matplotlib, Seaborn, Tableau
 
+## GitHub Repository
+
+**Source Code:** [https://github.com/isacmj7/customer-churn-analysis](https://github.com/isacmj7/customer-churn-analysis)
+
 ## Author
 
 Ishak Islam  
